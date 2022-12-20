@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class LoadScene : MonoBehaviour
 {
     public Text loadingText;
-    public Image progressBar; 
+    // public Image progressBar; 
     private int curProgressValue = 0;
     private float deadDelay = 1.5f;
     private float deadDelayTimer = 0;
@@ -22,7 +22,7 @@ public class LoadScene : MonoBehaviour
 
         loadingText.text = "Loading..." + curProgressValue + "%";
    
-        progressBar.fillAmount = curProgressValue / 100f;
+        // progressBar.fillAmount = curProgressValue / 100f;
 
         if (curProgressValue == 100)
         {
