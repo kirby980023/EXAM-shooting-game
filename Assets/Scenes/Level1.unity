@@ -1339,7 +1339,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 218787322}
-  m_LocalRotation: {x: 0.30065915, y: -0.00000004019678, z: 0.000000012671834, w: 0.95373166}
+  m_LocalRotation: {x: 0.30065918, y: 1.9258222e-15, z: -1.1781768e-15, w: 0.95373166}
   m_LocalPosition: {x: -0.39, y: 10.28, z: -15.045825}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1776,6 +1776,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: d5203b094d6d5ea4580ed6195153566d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 89dea5a0476adfc4688175601afe9b23, type: 2}
+    - target: {fileID: -7511558181221131132, guid: d5203b094d6d5ea4580ed6195153566d, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 89dea5a0476adfc4688175601afe9b23, type: 2}
     - target: {fileID: 919132149155446097, guid: d5203b094d6d5ea4580ed6195153566d, type: 3}
       propertyPath: m_Name
       value: "\u76FE\u724C  \u9673\u5F65\u8C6A (1)"
@@ -4286,7 +4294,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.30065915, y: -0.00000004019678, z: 0.000000012671834, w: 0.95373166}
+  m_LocalRotation: {x: 0.30065918, y: 1.9258222e-15, z: -1.1781768e-15, w: 0.95373166}
   m_LocalPosition: {x: -0.39, y: 10.28, z: -15.045825}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -6973,6 +6981,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Scenes
       objectReference: {fileID: 0}
+    - target: {fileID: 8100320773420232829, guid: e7764cbc054432b439fa8657c2ccfcb4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2c432c220986d05459d3964e243ac9d6, type: 2}
     - target: {fileID: 8513859187771203891, guid: e7764cbc054432b439fa8657c2ccfcb4, type: 3}
       propertyPath: m_TagString
       value: Scenes

@@ -182,6 +182,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4379042639465141238, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
 --- !u!1001 &12698685
@@ -191,6 +195,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5443131419462597481, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 5803204091290737340, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
       propertyPath: m_Name
       value: "Goblins\u96D9\u76FE (6)"
@@ -2130,6 +2138,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 368d886f27f7da44cb287ee7d97792e1, type: 2}
     - target: {fileID: 919132149155446097, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
       propertyPath: m_Name
       value: shell1 (7)
@@ -2437,6 +2449,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 368d886f27f7da44cb287ee7d97792e1, type: 2}
     - target: {fileID: 919132149155446097, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
       propertyPath: m_Name
       value: shell1 (4)
@@ -2509,6 +2525,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5443131419462597481, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 5803204091290737340, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
       propertyPath: m_Name
       value: "Goblins\u96D9\u76FE (4)"
@@ -4124,6 +4144,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 368d886f27f7da44cb287ee7d97792e1, type: 2}
     - target: {fileID: 919132149155446097, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
       propertyPath: m_Name
       value: shell1 (2)
@@ -4354,6 +4378,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 916011221061208904, guid: 3ec8ce446581ac040909f9f932610a4f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 1708745703675636381, guid: 3ec8ce446581ac040909f9f932610a4f, type: 3}
       propertyPath: m_Name
       value: "Goblins\u69CD\u5200 (5)"
@@ -4415,6 +4443,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5443131419462597481, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 5803204091290737340, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
       propertyPath: m_Name
       value: "Goblins\u96D9\u76FE (3)"
@@ -5145,6 +5177,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4379042639465141238, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
 --- !u!1 &644219151 stripped
@@ -5325,6 +5361,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 368d886f27f7da44cb287ee7d97792e1, type: 2}
     - target: {fileID: 919132149155446097, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
       propertyPath: m_Name
       value: shell1 (6)
@@ -5866,6 +5906,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 916011221061208904, guid: 3ec8ce446581ac040909f9f932610a4f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 1708745703675636381, guid: 3ec8ce446581ac040909f9f932610a4f, type: 3}
       propertyPath: m_Name
       value: "Goblins\u69CD\u5200 (3)"
@@ -6103,6 +6147,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 535363726183477327, guid: a88cca584639ecc46abf8181758cbd97, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 1668252315294124832, guid: a88cca584639ecc46abf8181758cbd97, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -7451,6 +7499,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f692da9025745ad4eb7bbfb6d7319180, type: 2}
     - target: {fileID: 919132149155446097, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
       propertyPath: m_Name
       value: shell2 (2)
@@ -7487,6 +7539,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5443131419462597481, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 5803204091290737340, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
       propertyPath: m_Name
       value: "Goblins\u96D9\u76FE (1)"
@@ -7719,6 +7775,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f692da9025745ad4eb7bbfb6d7319180, type: 2}
     - target: {fileID: 919132149155446097, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
       propertyPath: m_Name
       value: shell2 (7)
@@ -8619,6 +8679,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4379042639465141238, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
 --- !u!1001 &1062897421
@@ -8843,6 +8907,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 535363726183477327, guid: a88cca584639ecc46abf8181758cbd97, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 1668252315294124832, guid: a88cca584639ecc46abf8181758cbd97, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -9182,7 +9250,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1130964026}
-  m_LocalRotation: {x: 0.30065918, y: 0.00000001641027, z: -0.0000000051732565, w: 0.95373166}
+  m_LocalRotation: {x: 0.30065918, y: -0.00000001641027, z: 0.0000000051732565, w: 0.95373166}
   m_LocalPosition: {x: 207.73, y: 16.89, z: 240.99}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -9464,6 +9532,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f692da9025745ad4eb7bbfb6d7319180, type: 2}
     - target: {fileID: 919132149155446097, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
       propertyPath: m_Name
       value: shell2
@@ -9657,6 +9729,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 916011221061208904, guid: 3ec8ce446581ac040909f9f932610a4f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 1708745703675636381, guid: 3ec8ce446581ac040909f9f932610a4f, type: 3}
       propertyPath: m_Name
       value: "Goblins\u69CD\u5200 (4)"
@@ -9921,7 +9997,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1194996367}
-  m_LocalRotation: {x: 0.30065918, y: 0.00000001641027, z: -0.0000000051732565, w: 0.95373166}
+  m_LocalRotation: {x: 0.30065918, y: -0.00000001641027, z: 0.0000000051732565, w: 0.95373166}
   m_LocalPosition: {x: 207.73, y: 16.89, z: 240.99}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -9956,6 +10032,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 916011221061208904, guid: 3ec8ce446581ac040909f9f932610a4f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 1708745703675636381, guid: 3ec8ce446581ac040909f9f932610a4f, type: 3}
       propertyPath: m_Name
       value: "Goblins\u69CD\u5200 (6)"
@@ -10227,6 +10307,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f692da9025745ad4eb7bbfb6d7319180, type: 2}
     - target: {fileID: 919132149155446097, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
       propertyPath: m_Name
       value: shell2 (6)
@@ -10319,6 +10403,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f692da9025745ad4eb7bbfb6d7319180, type: 2}
     - target: {fileID: 919132149155446097, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
       propertyPath: m_Name
       value: shell2 (9)
@@ -10411,6 +10499,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f692da9025745ad4eb7bbfb6d7319180, type: 2}
     - target: {fileID: 919132149155446097, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
       propertyPath: m_Name
       value: shell2 (3)
@@ -11068,6 +11160,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 535363726183477327, guid: a88cca584639ecc46abf8181758cbd97, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 1668252315294124832, guid: a88cca584639ecc46abf8181758cbd97, type: 3}
       propertyPath: m_RootOrder
       value: 28
@@ -11405,6 +11501,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5443131419462597481, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 5803204091290737340, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
       propertyPath: m_Name
       value: "Goblins\u96D9\u76FE (5)"
@@ -11942,6 +12042,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 93412370deb481f48b60c37a3210accf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: de0ba1c0085009348b32a48e615462ca, type: 2}
     - target: {fileID: 919132149155446097, guid: 93412370deb481f48b60c37a3210accf, type: 3}
       propertyPath: m_Name
       value: island
@@ -12331,6 +12435,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 368d886f27f7da44cb287ee7d97792e1, type: 2}
     - target: {fileID: 919132149155446097, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
       propertyPath: m_Name
       value: shell1 (9)
@@ -12367,6 +12475,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5443131419462597481, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 5803204091290737340, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
       propertyPath: m_Name
       value: "Goblins\u96D9\u76FE (2)"
@@ -12498,6 +12610,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4379042639465141238, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
 --- !u!1001 &1519390711
@@ -12640,6 +12756,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f692da9025745ad4eb7bbfb6d7319180, type: 2}
     - target: {fileID: 919132149155446097, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
       propertyPath: m_Name
       value: shell2 (4)
@@ -13056,6 +13176,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 916011221061208904, guid: 3ec8ce446581ac040909f9f932610a4f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 1708745703675636381, guid: 3ec8ce446581ac040909f9f932610a4f, type: 3}
       propertyPath: m_Name
       value: "Goblins\u69CD\u5200 (2)"
@@ -13173,6 +13297,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f692da9025745ad4eb7bbfb6d7319180, type: 2}
     - target: {fileID: 919132149155446097, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
       propertyPath: m_Name
       value: shell2 (1)
@@ -13265,6 +13393,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f692da9025745ad4eb7bbfb6d7319180, type: 2}
     - target: {fileID: 919132149155446097, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
       propertyPath: m_Name
       value: shell2 (5)
@@ -13353,6 +13485,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 1.273
       objectReference: {fileID: 0}
+    - target: {fileID: 4379042639465141238, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
 --- !u!1001 &1622989081
@@ -13439,6 +13575,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 535363726183477327, guid: a88cca584639ecc46abf8181758cbd97, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 1668252315294124832, guid: a88cca584639ecc46abf8181758cbd97, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -13556,6 +13696,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 368d886f27f7da44cb287ee7d97792e1, type: 2}
     - target: {fileID: 919132149155446097, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
       propertyPath: m_Name
       value: shell1 (5)
@@ -13728,6 +13872,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f692da9025745ad4eb7bbfb6d7319180, type: 2}
     - target: {fileID: 919132149155446097, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
       propertyPath: m_Name
       value: shell2 (8)
@@ -14219,6 +14367,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Scenes
       objectReference: {fileID: 0}
+    - target: {fileID: 8100320773420232829, guid: e7764cbc054432b439fa8657c2ccfcb4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2c432c220986d05459d3964e243ac9d6, type: 2}
     - target: {fileID: 8513859187771203891, guid: e7764cbc054432b439fa8657c2ccfcb4, type: 3}
       propertyPath: m_TagString
       value: Scenes
@@ -14488,6 +14640,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 368d886f27f7da44cb287ee7d97792e1, type: 2}
     - target: {fileID: 919132149155446097, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
       propertyPath: m_Name
       value: shell1 (8)
@@ -15332,6 +15488,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5443131419462597481, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 5803204091290737340, guid: 8098ccce06d7c7b4c8bd88bbe6b96a02, type: 3}
       propertyPath: m_Name
       value: "Goblins\u96D9\u76FE (7)"
@@ -15791,6 +15951,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4379042639465141238, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
 --- !u!1001 &1862536406
@@ -16308,6 +16472,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4379042639465141238, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 43cf4f92c697fbd4099d5521f33d5ac3, type: 3}
 --- !u!1001 &1913022852
@@ -16729,6 +16897,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 916011221061208904, guid: 3ec8ce446581ac040909f9f932610a4f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: df812a0a8fa1e98459a3ec190a9b6bb9, type: 2}
     - target: {fileID: 1708745703675636381, guid: 3ec8ce446581ac040909f9f932610a4f, type: 3}
       propertyPath: m_Name
       value: "Goblins\u69CD\u5200 (1)"
@@ -16865,6 +17037,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f692da9025745ad4eb7bbfb6d7319180, type: 2}
     - target: {fileID: 919132149155446097, guid: 935619aa19b7a884fb67d7aa6feed4fd, type: 3}
       propertyPath: m_Name
       value: shell2 (10)
@@ -17189,6 +17365,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 368d886f27f7da44cb287ee7d97792e1, type: 2}
     - target: {fileID: 919132149155446097, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
       propertyPath: m_Name
       value: shell1 (3)
@@ -17676,6 +17856,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 180
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 368d886f27f7da44cb287ee7d97792e1, type: 2}
     - target: {fileID: 919132149155446097, guid: b2eb5e5205cbe3e489965901aa689309, type: 3}
       propertyPath: m_Name
       value: shell1 (1)

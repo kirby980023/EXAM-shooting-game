@@ -9658,6 +9658,14 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Scenes
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: e7764cbc054432b439fa8657c2ccfcb4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2c432c220986d05459d3964e243ac9d6, type: 2}
+    - target: {fileID: 8100320773420232829, guid: e7764cbc054432b439fa8657c2ccfcb4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2c432c220986d05459d3964e243ac9d6, type: 2}
     - target: {fileID: 8513859187771203891, guid: e7764cbc054432b439fa8657c2ccfcb4, type: 3}
       propertyPath: m_TagString
       value: Scenes
