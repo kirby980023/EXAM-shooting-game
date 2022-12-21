@@ -34,7 +34,7 @@ public class Chase : MonoBehaviour
             Idle();
 
             float d = Vector3.Distance(transform.position, target.transform.position);
-            Debug.Log("Chase 距離：" + d);
+            // Debug.Log("Chase 距離：" + d);
 
             if (d < 6)
             {
@@ -51,7 +51,7 @@ public class Chase : MonoBehaviour
             Chase1();
 
             float d = Vector3.Distance(transform.position, target.transform.position);
-            Debug.Log("Chase 距離：" + d);
+            // Debug.Log("Chase 距離：" + d);
 
             if (d > 6)
             {
