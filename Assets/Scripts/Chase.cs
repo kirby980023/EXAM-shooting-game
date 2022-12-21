@@ -13,52 +13,64 @@ public class Chase : MonoBehaviour
 
     public enum EnemyStaatus
     {
-        Idle, Chase
+        Idle, Chase1
     }
 
     void Start()
     {
         // // 目前狀態
-        // status = EnemyStaatus.Idle;
+        status = EnemyStaatus.Idle;
 
         // // 導航 AI
-        // agent = GetComponent<NavMeshAgent>();
+        agent = GetComponent<NavMeshAgent>();
 
 
     }
 
     void Update()
     {
-        float d = Vector3.Distance(transform.position, target.transform.position);
-        Debug.Log("Chase 距離：" + d);
-        // if (status == EnemyStaatus.Idle)
-        // {
-        //     Idle();
+        if (status == EnemyStaatus.Idle)
+        {
+            Idle();
 
-        //     float d = Vector3.Distance(transform.position, target.transform.position);
-        //     Debug.Log("Chase 距離：" + d);
+            float d = Vector3.Distance(transform.position, target.transform.position);
+            Debug.Log("Chase 距離：" + d);
 
-        // }
+            if (d < 6)
+            {
+                status = EnemyStaatus.Chase1;
+                return;
+            } 
 
-        // if (status == EnemyStaatus.Chase)
-        // {
-        //     Chase();
-        //     float d = Vector3.Distance(transform.position, target.transform.position);
-        //     Debug.Log("Chase 距離：" + d);
+            Idle();
 
-        // }
+        }
 
-        // // 狀態行為：閒置
-        // private void Idle()
-        // {
+        if (status == EnemyStaatus.Chase1)
+        {
+            Chase1();
 
-        // }
+            float d = Vector3.Distance(transform.position, target.transform.position);
+            Debug.Log("Chase 距離：" + d);
 
-        // // 狀態行為：追逐
-        // private void Chase()
-        // {
-        //     agent.SetDestination(target.position);
-        //     agent.SetDestination(target.position);
-        // }
+            if (d > 6)
+            {
+                status = EnemyStaatus.Idle;
+            }
+
+            Chase1();   
+        }  
+    }
+     // 狀態行為：閒置
+    private void Idle()
+    {
+
+    }
+
+    // 狀態行為：追逐
+    private void Chase1()
+    {
+        agent.SetDestination(target.position);
+        agent.SetDestination(target.position);
     }
 }
