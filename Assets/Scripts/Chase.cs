@@ -58,6 +58,11 @@ public class Chase : MonoBehaviour
                 status = EnemyStaatus.Idle;
             }
 
+            if (target == false)
+            {
+                status = EnemyStaatus.Idle;
+            }
+
             Chase1();   
         }  
     }
