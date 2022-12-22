@@ -13,7 +13,7 @@ public class Chase : MonoBehaviour
 
     public enum EnemyStaatus
     {
-        Idle, Chase1
+        Idle, Chase1, Stop
     }
 
     void Start()
@@ -42,6 +42,11 @@ public class Chase : MonoBehaviour
                 return;
             } 
 
+            if (target == false)
+            {
+                status = EnemyStaatus.Idle;
+            }
+
             Idle();
 
         }
@@ -56,15 +61,23 @@ public class Chase : MonoBehaviour
             if (d > 6)
             {
                 status = EnemyStaatus.Idle;
+                return;
             }
 
             if (target == false)
             {
                 status = EnemyStaatus.Idle;
+                return;
             }
 
             Chase1();   
         }  
+
+        // if (status == EnemyStaatus.Stop)
+        // {
+        //    Stop(); 
+        //    Time.timeScale = 0f;
+        // }
     }
      // 狀態行為：閒置
     private void Idle()

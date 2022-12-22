@@ -99,7 +99,7 @@ public class Player : MonoBehaviour
             fall.SetActive(true);
             JS.SetActive(false);
             Destroy(gameObject);
-            Time.timeScale = 0f;
+            // Time.timeScale = 0f;
         }
 
     }
