@@ -98,8 +98,8 @@ public class Player : MonoBehaviour
             pause.SetActive(false);
             fall.SetActive(true);
             JS.SetActive(false);
-            Destroy(gameObject);
-            // Time.timeScale = 0f;
+            // Destroy(gameObject);
+            Time.timeScale = 0f;
         }
 
     }
