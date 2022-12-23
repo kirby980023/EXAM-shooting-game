@@ -10,7 +10,7 @@ public class E_number : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-      enemynumber = 15;
+      enemynumber = 18;
    
     }
 
