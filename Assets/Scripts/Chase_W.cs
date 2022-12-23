@@ -12,7 +12,7 @@ public class Chase_W : MonoBehaviour
 
     public enum EnemyStaatus
     {
-        Idle, Chase1, Stop
+        Idle, Chase1
     }
 
     void Start()

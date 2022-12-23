@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Playerwin : MonoBehaviour
 {
-    private float hp = 3f;
     public float speed = 10;
     public Joystick joyStick;
 

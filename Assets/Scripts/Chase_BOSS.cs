@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class Chase : MonoBehaviour
+public class Chase_BOSS : MonoBehaviour
 {
     public EnemyStaatus status;
-    // public string status;
     public Transform target;
 
     private NavMeshAgent agent;
@@ -36,7 +35,7 @@ public class Chase : MonoBehaviour
             float d = Vector3.Distance(transform.position, target.transform.position);
             // Debug.Log("Chase 距離：" + d);
 
-            if (d < 6)
+            if (d < 300)
             {
                 status = EnemyStaatus.Chase1;
                 return;
@@ -58,7 +57,7 @@ public class Chase : MonoBehaviour
             float d = Vector3.Distance(transform.position, target.transform.position);
             // Debug.Log("Chase 距離：" + d);
 
-            if (d > 6)
+            if (d > 300)
             {
                 status = EnemyStaatus.Idle;
                 return;
@@ -72,12 +71,6 @@ public class Chase : MonoBehaviour
 
             Chase1();   
         }  
-
-        // if (status == EnemyStaatus.Stop)
-        // {
-        //    Stop(); 
-        //    Time.timeScale = 0f;
-        // }
     }
      // 狀態行為：閒置
     private void Idle()
