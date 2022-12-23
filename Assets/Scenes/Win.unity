@@ -3364,7 +3364,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 647187377}
-  m_LocalRotation: {x: 0.30065918, y: -0.00000001641027, z: 0.0000000051732565, w: 0.95373166}
+  m_LocalRotation: {x: 0.30065918, y: 0.00000001641027, z: -0.0000000051732565, w: 0.95373166}
   m_LocalPosition: {x: 232.07, y: 10.599999, z: 211.67}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -6190,28 +6190,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 2e39714a07e51714cbf608fab038b36d, type: 3}
   m_PrefabInstance: {fileID: 1292648509}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1292648512
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1292648511}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7b476e342d54b46d585130e490288685, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 15
-  joyStick: {fileID: 1154630135}
-  firePoint: {fileID: 0}
-  bulletPrefab: {fileID: 0}
-  JS: {fileID: 0}
-  reScene: Level3
-  win: {fileID: 0}
-  winb: {fileID: 0}
-  fall: {fileID: 0}
-  pause: {fileID: 0}
 --- !u!136 &1292648513
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -6244,6 +6222,20 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1292648517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1292648511}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d30ff7ce1f4720740a050695e59588f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10
+  joyStick: {fileID: 1154630135}
 --- !u!1 &1293108020
 GameObject:
   m_ObjectHideFlags: 0
@@ -8902,7 +8894,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1683938667}
-  m_LocalRotation: {x: 0.30065918, y: -0.00000001641027, z: 0.0000000051732565, w: 0.95373166}
+  m_LocalRotation: {x: 0.30065918, y: 0.00000001641027, z: -0.0000000051732565, w: 0.95373166}
   m_LocalPosition: {x: 232.07, y: 10.599999, z: 211.67}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
