@@ -3,20 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class E_number4 : MonoBehaviour
+public class HP_numberBOSS : MonoBehaviour
 {
-    public static int BOSSHP;
-    public Text ShoweBOSSHP;
+    public static int HPnumber;
+    public Text ShowHPnumber;
     // Start is called before the first frame update
     void Start()
     {
-      BOSSHP = 250;
-   
+        HPnumber=5;
     }
 
     // Update is called once per frame
     void Update()
     {
-        ShoweBOSSHP.text = BOSSHP.ToString();
+        ShowHPnumber.text = HPnumber.ToString();
     }
 }
