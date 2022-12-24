@@ -35,7 +35,7 @@ public class Chase_BOSS : MonoBehaviour
             float d = Vector3.Distance(transform.position, target.transform.position);
             // Debug.Log("Chase 距離：" + d);
 
-            if (d < 300)
+            if (d < 500)
             {
                 status = EnemyStaatus.Chase1;
                 return;
@@ -57,7 +57,7 @@ public class Chase_BOSS : MonoBehaviour
             float d = Vector3.Distance(transform.position, target.transform.position);
             // Debug.Log("Chase 距離：" + d);
 
-            if (d > 300)
+            if (d > 500)
             {
                 status = EnemyStaatus.Idle;
                 return;
